@@ -1,0 +1,4 @@
+/*
+I am currently a graudate student at the University of Arizona in the Electrical and Computer Engineering Department.
+This is a simple repository in order to keep track and organize my projects. 
+*/
